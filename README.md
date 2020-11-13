@@ -1,3 +1,5 @@
+# Alanine_FelRepository
+
 # **Developing Protocol for exhaustive Sampling and Free Energy Surface Calculation of Alanine Dipeptide**
 Free energy surface of Alanine Peptide
 
@@ -23,4 +25,8 @@ cd ../Analysis_Script/
 paste <(awk '{print $2}' phi.dat) <(awk '{print $2}' psi.dat) >dihedral.dat
 sh Free_energyPlot.sh
 ```
-# Alanine_FelRepository
+
+## *Contact Information* :
+For further details and bugs feel free to write  
+- *Ruhar*,  ruhar63_sit@jnu.ac.in 
+- *Andrew Lynn*, andrew@jnu.ac.in
