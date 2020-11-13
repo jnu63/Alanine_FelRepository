@@ -1,4 +1,4 @@
-# Alanine_FelRepository
+# Alanine Fel Repository
 
 # **Developing Protocol for exhaustive Sampling and Free Energy Surface Calculation of Alanine Dipeptide**
 Free energy surface of Alanine Peptide
