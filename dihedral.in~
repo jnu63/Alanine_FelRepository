@@ -1,3 +1,0 @@
-trajin temp.nc
-dihedral phi :1@C :2@N :2@CA :2@C out phi.dat
-dihedral psi :1@N :1@CA :1@C :2@N out psi.dat
