@@ -6,11 +6,12 @@ Free energy surface of Alanine Peptide
 ![Alt text](Di-alanine.jpg?raw=true "Title")
 
 ## *Dependencies* :
-- VMD
-- AMBER and AmberTools
-- cpptraj
-- gmx sham
-- Python 
+- [VMD](https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD)
+- [AMBER and AmberTools](https://ambermd.org/GetAmber.php)
+- [cpptraj](https://ambermd.org/GetAmber.php#ambertools)
+- [gmx sham](http://manual.gromacs.org/documentation/current/onlinehelp/gmx-sham.html)
+- Python v3
+- python libraries
 
 ```
 Open VMD, load ala.pdb and run on tk console : source vmd.tcl.
