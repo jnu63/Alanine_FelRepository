@@ -1,6 +1,8 @@
 Developing Protocol for exhaustive Sampling and Free Energy Surface Calculation of Alanine Dipeptide
 Free energy surface of Alanine Peptide
 
+![Alt text](/home/jnu/Desktop/Alanine_FelRepository/Di-alanine.jpg?raw=true "Title")
+
 Dependencies
 VMD
 AMBER and AmberTools
