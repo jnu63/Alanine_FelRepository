@@ -1,0 +1,9 @@
+whole system
+&cntrl
+imin	= 1,
+maxcyc 	= 1000,
+ncyc	= 150,
+ntb 	= 1,
+ntr 	= 0,
+cut 	= 8.0,
+/

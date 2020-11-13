@@ -1,0 +1,5 @@
+trajin temp.nc 1 1 1 
+strip :WAT
+center :1-2 mass origin
+image origin center
+outtraj test.pdb
