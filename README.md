@@ -5,6 +5,11 @@ Free energy surface of Alanine Peptide
 
 ![Alt text](Di-alanine.jpg?raw=true "Title")
 
+## *Package Content*
+- Dataset
+- Result
+- Analysis
+
 ## *Dependencies* :
 - [VMD](https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD)
 - [AMBER and AmberTools](https://ambermd.org/GetAmber.php)
