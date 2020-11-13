@@ -6,7 +6,7 @@ Free energy surface of Alanine Peptide
 ![Alt text](Di-alanine.jpg?raw=true "Title")
 
 ## *Package Content*
-- Initial Structure of PDB File 
+- Initial Structure of Alanine Dipeptide
 - Parameter File for Simulation 
 - Simulation Running Code
 - Analysis code
@@ -19,6 +19,7 @@ Free energy surface of Alanine Peptide
 - Python v3
 - python libraries
 
+## *Method*
 ```
 Open VMD, load ala.pdb and run on tk console : source vmd.tcl.
 sh run2.sh
