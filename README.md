@@ -6,9 +6,9 @@ Free energy surface of Alanine Peptide
 ![Alt text](Di-alanine.jpg?raw=true "Title")
 
 ## *Package Content*
-- Dataset
-- Result
-- Analysis
+- Initial Structure of PDB File 
+- Parameter File for Simulation 
+- Simulation Running Code
 
 ## *Dependencies* :
 - [VMD](https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD)
