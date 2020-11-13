@@ -9,6 +9,7 @@ Free energy surface of Alanine Peptide
 - Initial Structure of PDB File 
 - Parameter File for Simulation 
 - Simulation Running Code
+- Analysis code
 
 ## *Dependencies* :
 - [VMD](https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD)
