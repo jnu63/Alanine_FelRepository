@@ -19,7 +19,7 @@ Free energy surface of Alanine Peptide
 - Python v3
 - python libraries
 
-## *Method*
+## *Running Codes*
 ```
 Open VMD, load ala.pdb and run on tk console : source vmd.tcl.
 sh run2.sh
