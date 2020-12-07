@@ -2,7 +2,7 @@
 
 ## **Developing Protocol to Study the Free Energy Surface of Alanine-Dipeptide**
 
-![Alt text](C:\Users\Ruhar\Downloads\Protocol.jpg?raw=true "Title")
+![Alt text](Protocol.jpg?raw=true "Title")
 
 ## *Package Content*
 - Initial Structure of Alanine Dipeptide
