@@ -1,6 +1,5 @@
-# Alanine Fel Repository
-
-## **Developing Protocol to Study the Free Energy Surface of Alanine-Dipeptide**
+# **Developing Protocol to Study the Free Energy Surface of Alanine-Dipeptide**
+Here, we proposed a simplest method to study the FEL of small molecules which followed the generation of conformation, exhaustive sampling and recovering the free energy landscape using Boltzmann Distribution Statistics. Alanine-Dipeptide is used as a model system with two angular degrees of freedom.
 
 ![Alt text](Protocol.jpg?raw=true "Title")
 
