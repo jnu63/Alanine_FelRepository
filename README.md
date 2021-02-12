@@ -1,4 +1,4 @@
-# **Establishing a Protocol to Study the Free Energy Surface of Ala-Dipeptide**
+# **Establishing a Protocol to Study the Free Energy Surface of Small Peptides**
 Here, proposed a simplest method to study the FEL of small molecules which followed the generation of conformation, exhaustive sampling and recovering of free energy landscape using Boltzmann Distribution. Alanine-Dipeptide used as a model system with two angular degrees of freedom.
 
 ![Alt text](Protocol.jpg?raw=true "Title")
